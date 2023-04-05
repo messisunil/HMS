@@ -12,7 +12,7 @@
 	</properties>
 	<profiles>
 	<profile>
-	<id>Admin</id>
+	<id>Inverted</id>
 	<build>
 		<plugins>
 			<plugin>
@@ -21,7 +21,7 @@
 				<version>3.0.0-M8</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>adminLogin.xml</suiteXmlFile>
+						<suiteXmlFile>inverted.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
